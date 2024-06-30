@@ -1,0 +1,6 @@
+/env_aws.sh
+/mail/terraform.tfstate
+/mail/terraform.tfstate.backup
+/mail/test.sh
+/files/keypair2.pem
+/certs
